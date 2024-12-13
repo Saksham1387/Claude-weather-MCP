@@ -1,0 +1,10 @@
+{
+    "mcpServers": {
+        "weather": {
+            "command": "node",
+            "args": [
+                "/Users/sakshamchaudhary/Desktop/weather-mcp/build/index.js"
+            ]
+        }
+    }
+}
